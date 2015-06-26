@@ -25,4 +25,5 @@ project.xcworkspace
 # node.js
 #
 node_modules/
+App/Creds/
 npm-debug.log

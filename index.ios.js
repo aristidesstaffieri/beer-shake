@@ -27,7 +27,7 @@ var beerShake = React.createClass({
       <NavigatorIOS
         style={styles.container}
         initialRoute = {{
-        title: 'Beer Shake',
+        title: 'Beer Snob',
         component: Main
       }} />
     );
